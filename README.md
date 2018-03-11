@@ -31,7 +31,7 @@ Este repositório foi criado no seguimento de uma [thread no /r/portugal](https:
 
 * [InteriorNorte](./contratos/InteriorNorte.pdf)      
 
-* [BeiraLitoralAlta](./contratos/BeiraLitoralAlta.pdf) - Em falta no site da DGFT
+* [BeiraLitoralAlta](./contratos/BeiraLitoralAlta.pdf)
 
 * [BLA_Acordo_Aditamento_Contrato_2010](./contratos/BLA_Acordo_Aditamento_Contrato_2010.pdf)
 
@@ -49,8 +49,10 @@ Este repositório foi criado no seguimento de uma [thread no /r/portugal](https:
 
 * [GL_Acordo_Aditamento_Contrato_2010](./contratos/GL_Acordo_Aditamento_Contrato_2010.pdf)
 
-* [DouroLitoral](./contratos/DouroLitoral.pdf)                                          
-* [Transmontana](./contratos/Transmontana.pdf)                                          
+* [DouroLitoral](./contratos/DouroLitoral.pdf) 
+
+* [Transmontana](./contratos/Transmontana.pdf)
+
 * [DouroInterior](http://www.dgtf.pt:80/ResourcesUser/PPP/Documentos/contratos/DouroInterior.pdf)                                        
 * [TunelMarao](./contratos/TunelMarao.pdf)                                              
 
