@@ -10,6 +10,10 @@ https://bertolo1988.github.io/ppp-list/
 
 Este repositório foi criado no seguimento de uma [thread no /r/portugal](https://www.reddit.com/r/portugal/comments/83mh0q/contratos_das_ppp/) criada pelo [/u/hgg](https://www.reddit.com/user/hgg) 
 
+## Contribuir
+
+Contribuições com mais informação relevante/contratos, correção de errors ou com qualquer outra melhoria são bem vindas. Senão se sentirem capazes de fazer um [pull request](https://help.github.com/articles/about-pull-requests/) abram um [issue aqui.](https://github.com/bertolo1988/ppp-list/issues)
+
 
 ## Contratos
 
