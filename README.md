@@ -17,87 +17,88 @@ Contribuições com mais informação relevante/contratos, correção de errors 
 
 ## Contratos
 
-* [Lusoponte](./contratos/Lusoponte.pdf)           
+* Lusoponte [pdf](./pdf/Lusoponte.pdf) [ocr](./ocr/Lusoponte.doc)           
 
-* [Lusoponte_Acordo_2000](./contratos/Lusoponte_Acordo_2000.pdf)                        
+* Lusoponte_Acordo_2000 [pdf](./pdf/Lusoponte_Acordo_2000.pdf) [ocr](./ocr/Lusoponte_Acordo_2000.doc)                         
 
-* [Norte](./contratos/Norte.pdf)
+* Norte [pdf](./pdf/Norte.pdf) [ocr](./ocr/Norte.doc)
 
-* [Norte_Acordo_Aditamento_2010](./contratos/Norte_Acordo_Aditamento_2010.pdf)          
+* Norte_Acordo_Aditamento_2010 [pdf](./pdf/Norte_Acordo_Aditamento_2010.pdf) [ocr](./ocr/Norte_Acordo_Aditamento_2010.pdf)           
 
-* [Oeste](./contratos/Oeste.pdf)
+* Oeste [pdf](./pdf/Oeste.pdf) [ocr](./ocr/Oeste.pdf)
 
-* [LitoralCentro](./contratos/LitoralCentro.pdf)                                        
+* LitoralCentro [pdf](./pdf/LitoralCentro.pdf) [ocr](./ocr/LitoralCentro.pdf)                                        
 
-* [BeiraInterior](./contratos/BeiraInterior.pdf)
+* BeiraInterior [pdf](./pdf/BeiraInterior.pdf) [ocr](./ocr/BeiraInterior.pdf)
 
-* [CostaPrata](./contratos/CostaPrata.pdf)        
+* CostaPrata [pdf](./pdf/CostaPrata.pdf) [ocr](./ocr/CostaPrata.pdf)        
 
-* [CostaPrata_Acordo_Aditamento_2010](./contratos/CostaPrata_Acordo_Aditamento_2010.pdf)
+* CostaPrata_Acordo_Aditamento_2010 [pdf](./pdf/CostaPrata_Acordo_Aditamento_2010.pdf) [ocr](./ocr/CostaPrata_Acordo_Aditamento_2010.pdf)
 
-* [Algarve](./contratos/Algarve.pdf)                                     
+* Algarve [pdf](./pdf/Algarve.pdf) [ocr](./ocr/Algarve.pdf)
 
-* [InteriorNorte](./contratos/InteriorNorte.pdf)      
+* InteriorNorte [pdf](./pdf/InteriorNorte.pdf) [ocr](./ocr/InteriorNorte.pdf)      
 
-* [BeiraLitoralAlta](./contratos/BeiraLitoralAlta.pdf)
+* BeiraLitoralAlta [pdf](./pdf/BeiraLitoralAlta.pdf) [ocr](./ocr/BeiraLitoralAlta.pdf)
 
-* [BLA_Acordo_Aditamento_Contrato_2010](./contratos/BLA_Acordo_Aditamento_Contrato_2010.pdf)
+* BLA_Acordo_Aditamento_Contrato_2010 [pdf](./pdf/BLA_Acordo_Aditamento_Contrato_2010.pdf) [ocr](./ocr/BLA_Acordo_Aditamento_Contrato_2010.pdf)
 
-* [NorteLitoral](./contratos/NorteLitoral.pdf)
+* NorteLitoral [pdf](./pdf/NorteLitoral.pdf) [ocr](./ocr/NorteLitoral.pdf)
 
-* [NL_Acordo_Quadro_Final_2010](./contratos/NL_Acordo_Quadro_Final_2010.pdf)        
+* NL_Acordo_Quadro_Final_2010 [pdf](./pdf/NL_Acordo_Quadro_Final_2010.pdf) [ocr](./ocr/NL_Acordo_Quadro_Final_2010.pdf)  
 
-* [GrandePorto](./contratos/GrandePorto.pdf)
+* GrandePorto [pdf](./pdf/GrandePorto.pdf) [ocr](./ocr/GrandePorto.pdf)
 
-* [GrandePorto_Aditamento_2007](./contratos/GrandePorto_Aditamento_2007.pdf)    
+* GrandePorto_Aditamento_2007 [pdf](./pdf/GrandePorto_Aditamento_2007.pdf) [ocr](./ocr/GrandePorto_Aditamento_2007.pdf) 
 
-* [GrandePorto_Acordo_Aditamento_Contrato_2010](./contratos/GrandePorto_Acordo_Aditamento_Contrato_2010.pdf)
+* GrandePorto_Acordo_Aditamento_Contrato_2010 [pdf](./pdf/GrandePorto_Acordo_Aditamento_Contrato_2010.pdf) [ocr](./ocr/GrandePorto_Acordo_Aditamento_Contrato_2010.pdf)
 
-* [GrandeLisboa](./contratos/GrandeLisboa.pdf)    
+* GrandeLisboa [pdf](./pdf/GrandeLisboa.pdf) [ocr](./ocr/GrandeLisboa.pdf)    
 
-* [GL_Acordo_Aditamento_Contrato_2010](./contratos/GL_Acordo_Aditamento_Contrato_2010.pdf)
+* GL_Acordo_Aditamento_Contrato_2010 [pdf](./pdf/GL_Acordo_Aditamento_Contrato_2010.pdf) [ocr](./ocr/GL_Acordo_Aditamento_Contrato_2010.pdf)
 
-* [DouroLitoral](./contratos/DouroLitoral.pdf) 
+* DouroLitoral [pdf](./pdf/DouroLitoral.pdf) [ocr](./ocr/DouroLitoral.pdf) 
 
-* [Transmontana](./contratos/Transmontana.pdf)
+* Transmontana [pdf](./pdf/Transmontana.pdf) [ocr](./ocr/Transmontana.pdf)
 
-* [DouroInterior](http://www.dgtf.pt:80/ResourcesUser/PPP/Documentos/contratos/DouroInterior.pdf)                                        
-* [TunelMarao](./contratos/TunelMarao.pdf)                                              
+* DouroInterior [pdf](./pdf/DouroInterior.pdf) [ocr](./ocr/DouroInterior.pdf)
 
-* [BaixoAlentejo](./contratos/BaixoAlentejo.pdf)                                        
+* TunelMarao [pdf](./pdf/TunelMarao.pdf) [ocr](./ocr/TunelMarao.pdf)                                              
 
-* [BaixoTejo](./contratos/BaixoTejo.pdf)                                                
+* BaixoAlentejo [pdf](./pdf/BaixoAlentejo.pdf) [ocr](./ocr/BaixoAlentejo.pdf)                                        
 
-* [LitoralOeste](./contratos/LitoralOeste.pdf)                                          
+* BaixoTejo [pdf](./pdf/BaixoTejo.pdf) [ocr](./ocr/BaixoTejo.pdf)                                                
 
-* [AlgarveLitoral](./contratos/AlgarveLitoral.pdf)                                      
+* LitoralOeste [pdf](./pdf/LitoralOeste.pdf) [ocr](./ocr/LitoralOeste.pdf)                                          
 
-* [PinhalInterior](./contratos/PinhalInterior.pdf)                                      
+* AlgarveLitoral [pdf](./pdf/AlgarveLitoral.pdf) [ocr](./ocr/AlgarveLitoral.pdf)                                      
 
-* [MetroSulTejo](./contratos/MetroSulTejo.pdf)                                          
+* PinhalInterior [pdf](./pdf/PinhalInterior.pdf) [ocr](./ocr/PinhalInterior.pdf)                                    
 
-* [EixoNorteSul](./contratos/EixoNorteSul.pdf)                                          
+* MetroSulTejo [pdf](./pdf/MetroSulTejo.pdf) [ocr](./ocr/MetroSulTejo.pdf)                                          
 
-* [EixoNorteSul_Acordo_2010](./contratos/EixoNorteSul_Acordo_2010.pdf)                  
+* EixoNorteSul [pdf](./pdf/EixoNorteSul.pdf) [ocr](./ocr/EixoNorteSul.pdf)                                          
 
-* [PoceiraoCaia](./contratos/PoceiraoCaia.pdf)                                          
+* EixoNorteSul_Acordo_2010 [pdf](./pdf/EixoNorteSul_Acordo_2010.pdf) [ocr](./ocr/EixoNorteSul_Acordo_2010.pdf)                  
 
-* [PoceiraoCaia_reforma](./contratos/PoceiraoCaia_reforma.pdf)                          
+* PoceiraoCaia [pdf](./pdf/PoceiraoCaia.pdf) [ocr](./ocr/PoceiraoCaia.pdf)                                          
 
-* [CASNS](./contratos/CASNS.pdf)                                                        
+* PoceiraoCaia_reforma [pdf](./pdf/PoceiraoCaia_reforma.pdf) [ocr](./ocr/PoceiraoCaia_reforma.pdf)                          
 
-* [CASNS_Adenda_2009](./contratos/CASNS_Adenda_2009.pdf)                                
+* CASNS [pdf](./pdf/CASNS.pdf) [ocr](./ocr/CASNS.pdf)                                                       
 
-* [CASNS_Adenda_2011](./contratos/CASNS_Adenda_2011.pdf)                                
+* CASNS_Adenda_2009 [pdf](./pdf/CASNS_Adenda_2009.pdf) [ocr](./ocr/CASNS_Adenda_2009.pdf)                                
 
-* [ReabilitacaoSul](./contratos/ReabilitacaoSul.pdf)                                    
+* CASNS_Adenda_2011 [pdf](./pdf/CASNS_Adenda_2011.pdf) [ocr](./ocr/CASNS_Adenda_2011.pdf)                                
 
-* [HBraga](./contratos/HBraga.pdf)                                                      
+* ReabilitacaoSul [pdf](./pdf/ReabilitacaoSul.pdf) [ocr](./ocr/ReabilitacaoSul.pdf)                                    
 
-* [HCascais](./contratos/HCascais.pdf)                                                  
+* HBraga [pdf](./pdf/HBraga.pdf) [ocr](./ocr/HBraga.pdf)                                                      
 
-* [HLoures](./contratos/HLoures.pdf)                                                    
+* HCascais [pdf](./pdf/HCascais.pdf) [ocr](./ocr/HCascais.pdf)                                                  
 
-* [HVFX](./contratos/HVFX.pdf)                                                          
+* HLoures [pdf](./pdf/HLoures.pdf) [ocr](./ocr/HLoures.pdf)                                                    
 
-* [SIRESP](./contratos/SIRESP.pdf)
+* HVFX [pdf](./pdf/HVFX.pdf) [ocr](./ocr/HVFX.pdf)                                                          
+
+* SIRESP [pdf](./pdf/SIRESP.pdf) [ocr](./ocr/SIRESP.pdf)
